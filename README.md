@@ -1,4 +1,4 @@
-# ReinforceIt-3dsMax
+# ReinforceIt! plugin for 3ds Max
 
 ## Summary
 
