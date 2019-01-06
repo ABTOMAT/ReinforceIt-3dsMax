@@ -4,6 +4,10 @@
 
 This scripted plugin is written on maxscript and adds new primitive type "RIBar" for easy modelling square lowpoly bars and unwrap them on atlas in 3ds max
 
+(click on the image below to watch the video)
+
+[![Video for RIBar feature](https://img.youtube.com/vi/2dFosN3ypE0/0.jpg)](https://www.youtube.com/watch?v=2dFosN3ypE0)
+
 ![Screenshot](/readmeimages/screenshot1.png)
 
 ![Screenshot](/readmeimages/screenshot2.png)
@@ -35,9 +39,6 @@ January 2019.
 You can create correctly mapped on atlas bars just as primitive objects.
 You can choose UVs in visual editor er enter them from a keyboard.
 
-(click on the image below to see the video)
-
-[![Video for RIBar feature](https://img.youtube.com/vi/2dFosN3ypE0/0.jpg)](https://www.youtube.com/watch?v=2dFosN3ypE0)
 
 ![Example scene overview](/readmeimages/example_scene_overview.png)
 ![Example scene overview wireframe](/readmeimages/example_scene_overview_wire.png)
