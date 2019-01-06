@@ -21,6 +21,7 @@ Made by Dmitry Maslov @ http://maslov.co
 * Skype: blitz3dproger
 * Telegram: @ABTOMAT
 * GitHub: ABTOMAT
+* Patreon: https://www.patreon.com/ABTOMAT
 
 Feel free to let me know your opinion.
 Constructive feedback is appreciated.
@@ -34,6 +35,9 @@ January 2019.
 You can create correctly mapped on atlas bars just as primitive objects.
 You can choose UVs in visual editor er enter them from a keyboard.
 
+(click on the image below to see the video)
+
+[![Video for RIBar feature](https://img.youtube.com/vi/2dFosN3ypE0/0.jpg)](https://www.youtube.com/watch?v=2dFosN3ypE0)
 
 ![Example scene overview](/readmeimages/example_scene_overview.png)
 ![Example scene overview wireframe](/readmeimages/example_scene_overview_wire.png)
