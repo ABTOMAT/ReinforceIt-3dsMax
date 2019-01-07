@@ -6,7 +6,9 @@ This scripted plugin is written on maxscript and adds new primitive type "RIBar"
 
 (click on the image below to watch the video)
 
-[![Video for RIBar feature](https://img.youtube.com/vi/2dFosN3ypE0/0.jpg)](https://www.youtube.com/watch?v=2dFosN3ypE0)
+[![Video for RIBar feature EN](https://img.youtube.com/vi/2dFosN3ypE0/0.jpg)](https://www.youtube.com/watch?v=2dFosN3ypE0)
+
+[![Video for RIBar feature RU](https://img.youtube.com/vi/nrtY1L5l0_s/0.jpg)](https://www.youtube.com/watch?v=nrtY1L5l0_s)
 
 ![Screenshot](/readmeimages/screenshot1.png)
 
