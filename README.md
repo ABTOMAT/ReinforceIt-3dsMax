@@ -10,6 +10,10 @@ This scripted plugin is written on maxscript and adds new primitive type "RIBar"
 
 [![Video for RIBar feature RU](https://img.youtube.com/vi/nrtY1L5l0_s/0.jpg)](https://www.youtube.com/watch?v=nrtY1L5l0_s)
 
+
+![Screenshot](/readmeimages/reinforceit_sample_of_usage.gif)
+
+
 ![Screenshot](/readmeimages/screenshot1.png)
 
 ![Screenshot](/readmeimages/screenshot2.png)
